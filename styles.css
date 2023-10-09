@@ -1,0 +1,12 @@
+.grid{
+    display: grid;
+    grid-template-rows: 100px 100px 100px;
+    grid-template-columns:1fr 1fr 1fr ;
+    width:300px;
+    border:red;
+}
+button{
+    height: 100px;
+    width:100px;
+}
+
